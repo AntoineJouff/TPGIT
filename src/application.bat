@@ -1,4 +1,4 @@
-### application.bat - 2016 - Joufflineau Antoine ###
+### application.bat - 2016 - Joufflineau Antoine - Boudier Evgueny ###
 version = "2"
 build_hour = "16H11"
 
